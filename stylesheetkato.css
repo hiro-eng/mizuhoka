@@ -64,14 +64,15 @@ text-align:center;
 .box{
 font-size:20px;
 margin:10px auto;
+ text-align:center;
 }
 .box1{
-width:350px;
+width:500px;
 padding:10px;
 margin:10px auto;
 }
 .box2{
-width:400px;
+width:500px;
 padding:10px;
 margin:10px auto;
 }
