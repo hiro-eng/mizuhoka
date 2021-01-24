@@ -62,8 +62,6 @@ text-align:center;
 }
 
 .box{
-  display:flex;
-list-style:none;
 font-size:20px;
 margin:10px auto;
 }
